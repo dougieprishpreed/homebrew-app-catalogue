@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "serial": 5,
+  "serial": 6,
   "url": "https://xenosworks.github.io/homebrew-app-catalogue/catalogue.json",
   "categories": [
     {
@@ -145,18 +145,18 @@
       "category": "ports",
       "sentence": "The PC port of a classic GameCube adventure, at 1280x720 with 4 samples of multisampling.",
       "needs": "Your GZ2E01 disc as dusklight.iso beside it",
-      "changes": "Xbox 360 button prompts on the HUD, since beta 1.",
+      "changes": "Cutscenes that closed the game now play through, and grass and flowers draw faster.",
       "source": "https://github.com/xenosworks/dusklight-xenon",
       "license": "CC0-1.0",
       "screenshot": "shots/dusklight.png",
       "launch": "dusklight.xex",
       "title_id": "4455534B",
-      "version": "0.1.0.0",
-      "version_number": 16777216,
+      "version": "0.1.1.0",
+      "version_number": 16777472,
       "package": {
-        "url": "https://github.com/xenosworks/dusklight-xenon/releases/download/xenon-0.1.0.0/dusklight-0.1.0.0.zip",
-        "size": 21359103,
-        "sha256": "59b69f3e447c83165ff034d407316a1834aa6967408e935a8e51daa080993c19"
+        "url": "https://github.com/xenosworks/dusklight-xenon/releases/download/xenon-0.1.1.0/dusklight-0.1.1.0.zip",
+        "size": 21371115,
+        "sha256": "412f07d773f4880410b47d163097804bf532c574c3135c579ce356a28a33157c"
       },
       "files": [
         {
@@ -171,8 +171,8 @@
         },
         {
           "path": "dusklight.xex",
-          "size": 36429824,
-          "sha256": "27b2a42df9f39ba00a2b8dbfe491c3ec35c203c40af91bf64a26a1bd69c46c9f"
+          "size": 36454400,
+          "sha256": "31c2894995188037fd50244c6d4ce108610219c01bf65241bdfffb6cfc49326f"
         },
         {
           "path": "res/AlegreyaSC-Bold.ttf",
